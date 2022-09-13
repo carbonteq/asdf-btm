@@ -5,7 +5,7 @@ Testing Locally:
 ```shell
 ## asdf plugin test <plugin-name> <plugin-url> [--asdf-tool-version <version>] [--asdf-plugin-gitref <git-ref>] [test-command*]
 
-asdf plugin test btm https://github.com/carbonteq/asdf-btm.git "btm --version"
+asdf plugin test bottom https://github.com/carbonteq/asdf-btm.git "btm --version"
 ```
 
 Tests are automatically run in GitHub Actions on push and PR.

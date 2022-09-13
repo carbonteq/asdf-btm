@@ -22,24 +22,24 @@
 Plugin:
 
 ```shell
-asdf plugin add btm
+asdf plugin add bottom
 
 # or
 
-asdf plugin add btm https://github.com/carbonteq/asdf-btm.git
+asdf plugin add bottom https://github.com/carbonteq/asdf-btm.git
 ```
 
 btm:
 
 ```shell
 # Show all installable versions
-asdf list-all btm
+asdf list-all bottom
 
 # Install specific version
-asdf install btm latest
+asdf install bottom latest
 
 # Set a version globally (on your ~/.tool-versions file)
-asdf global btm latest
+asdf global bottom latest
 
 # Now btm commands are available
 btm --version

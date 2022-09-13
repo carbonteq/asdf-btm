@@ -36,4 +36,5 @@ jobs:
         env:
           GITHUB_API_TOKEN: ${{ github.token }}
         with:
+          plugin: bottom
           command: "btm --version"
