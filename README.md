@@ -2,7 +2,7 @@
 
 # asdf-btm [![Build](https://github.com/carbonteq/asdf-btm/actions/workflows/build.yml/badge.svg)](https://github.com/carbonteq/asdf-btm/actions/workflows/build.yml) [![Lint](https://github.com/carbonteq/asdf-btm/actions/workflows/lint.yml/badge.svg)](https://github.com/carbonteq/asdf-btm/actions/workflows/lint.yml)
 
-[btm](https://github.com/ClementTsang/bottom) plugin for the [asdf version manager](https://asdf-vm.com).
+[bottom (btm)](https://github.com/ClementTsang/bottom) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
